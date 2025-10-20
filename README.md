@@ -16,7 +16,7 @@ This repository contains summarized materials about Data Science. Covering topic
 <ul>
   <li><h5>Get To Know Data and Basic Statistics</h5></li>
   <li><h5>Data Cleaning and Missing Values</h5></li>
-  <li><h5>outliers, Encoding and Scaling</h5></li>
+  <li><h5>Outliers, Encoding and Scaling</h5></li>
   <li><h5>Correlation, Multivariate EDA and Storytelling</h5></li>
 </ul>
 
