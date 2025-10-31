@@ -30,7 +30,9 @@ This repository contains summarized materials about Data Science. Covering topic
 
 <h2>Machine Learning</h2>
 <ul>
-  <li><h5></h5></li>
+  <li><h5>Type of Machine Learning</h5></li>
+  <li><h5>Bias Variance Trade-off</h5></li>
+  <li><h5>Simpe Machine Learning Pipeline</h5></li>
 </ul>
 
 <h2>Advance Machine Learning</h2>
